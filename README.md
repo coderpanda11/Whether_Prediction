@@ -43,4 +43,4 @@ This is a basic Whether Prediction application that is using API of open whether
 
 ## Example Output
 
-![image](![image](Example_Output.png))
+![Example Output](Example_Output.png)
